@@ -1,7 +1,7 @@
 # eCiGee
 an open-source ECG/activity tracker  
   
-Based on BITalin Python API :  
+Based on BITalin Python API (working with Python 2.7):  
 https://github.com/BITalinoWorld/python-api  
   
 Using BioSPPy to process data from HeartBIT board :  
